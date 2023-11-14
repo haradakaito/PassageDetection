@@ -77,6 +77,9 @@ Pcap File Name: App
 Band Width: 20
 > 0-100
 ```
+### 4.1.1 サブキャリア選択
+- 目視による分析
+- モデルの精度による比較(6章)
 
 ### 4.2 ノイズ除去アルゴリズム
 - NR(Noise Reduction)  
