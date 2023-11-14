@@ -126,7 +126,7 @@ Band Width: 20
 - 環境差の検討
 - 損失関数
 - ソフトラベル
-- サブキャリア選択モデルの導入
+- 異常検知用サブキャリア選択モデル
 
 ## 7. 参考文献
 **[[1]](https://dl.acm.org/doi/10.1145/3349623.3355477)** GRINGOLI, Francesco, et al. Free your CSI: A channel state information extraction platform for modern Wi-Fi chipsets. In: Proceedings of the 13th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization. 2019. p. 21-28.  
