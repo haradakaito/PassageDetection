@@ -86,6 +86,7 @@ Band Width: 20
 　　・バターワース型  
 
 ### 4.3 サブキャリア選択
+参考：https://zenn.dev/shungo_a/articles/ffbdb3614867ca  
 前処理として, 「標準化」か「正規化」を行う必要がある.  
 - 時系列クラスタリング  
 　・k-means  
