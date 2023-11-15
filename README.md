@@ -25,7 +25,7 @@
 - Algorithm(アルゴリズム)：Learning-Besed(学習ベース)
 - Application(アプリケーション)：Recognition(認識)
 
-　Signal Procesingセクションに関しては, 単一のアプローチとは限らないため, Algorithm:*, Application:*タスクを設定している研究の動向を調査した.   
+　Signal Procesingセクションに関しては, 単一のアプローチとは限らないため, Algorithm:*, Application:Detection(検知)タスクを設定している研究の動向を調査した.   
 ### 1.1 
 
   
