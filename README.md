@@ -26,7 +26,7 @@
 - Application(アプリケーション)：Detection(検出)
 
 　Signal Procesingセクションに関しては, 単一のアプローチとは限らないため, Algorithm:Learning-Based(学習ベース), Application:Detection(検出)タスクを設定している研究の動向を調査した.   
-### 1.1 
+### 1.1 [[3]](https://github.com/haradakaito/PassageDetection#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)  
 
   
 ## 2. 実験環境
@@ -65,7 +65,7 @@ Band Width: 20
 ``` 
 ### 4.2 信号処理アルゴリズム
 - NR(Noise Reduction)  
-　・Hampel Filter[[3]](https://github.com/haradakaito/PassageDetection#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)  
+　・Hampel Filter[[4]](https://github.com/haradakaito/PassageDetection#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)  
 　・Wavelet Filter  
 　・LOF  
 　・MA  
@@ -123,5 +123,5 @@ Band Width: 20
 ## 7. 参考文献
 **[[1]](https://dl.acm.org/doi/10.1145/3349623.3355477)** GRINGOLI, Francesco, et al. Free your CSI: A channel state information extraction platform for modern Wi-Fi chipsets. In: Proceedings of the 13th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization. 2019. p. 21-28.  
 **[[2]](https://dl.acm.org/doi/abs/10.1145/3310194)** MA, Yongsen; ZHOU, Gang; WANG, Shuangquan. WiFi sensing with channel state information: A survey. ACM Computing Surveys (CSUR), 2019, 52.3: 1-36.  
-**[[3]](https://ieeexplore.ieee.org/abstract/document/7102722)** WU, Chenshu, et al. Non-invasive detection of moving and stationary human with WiFi. IEEE Journal on Selected Areas in Communications, 2015, 33.11: 2329-2342.
+**[[3]](https://ieeexplore.ieee.org/abstract/document/7102722)** WU, Chenshu, et al. Non-invasive detection of moving and stationary human with WiFi. IEEE Journal on Selected Areas in Communications, 2015, 33.11: 2329-2342.  
 **[[4]](https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10476339)** DAVIES, Laurie; GATHER, Ursula. The identification of multiple outliers. Journal of the American Statistical Association, 1993, 88.423: 782-792.
