@@ -66,20 +66,10 @@ Band Width: 20
 ### 4.2 信号処理アルゴリズム
 - NR(Noise Reduction)  
 　・Hampel Filter[[4]](https://github.com/haradakaito/PassageDetection#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)  
-　・Wavelet Filter  
-　・LOF  
 　・MA  
 　・WMA  
-- ST(Signal Transform)  
-　・DWT  
-　・STFT  
-　・IFFT  
 - SE(Signal Extraction)  
 　・Thresholding  
-　・Interpolation  
-　・PCA  
-　・BPF  
-　　・Butterworth  
 ### 4.3 サブキャリア選択
 参考1：https://zenn.dev/shungo_a/articles/ffbdb3614867ca  
 参考2：https://blog.since2020.jp/data_analysis/time_series_kmeans/  
