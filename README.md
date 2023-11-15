@@ -72,7 +72,7 @@ Band Width: 20
   ・k-shape  
   ・PCA  
   ・t-SNE  
-評価指標はSSE(クラスター内誤差平方和)  
+- 評価指標はSSE(クラスター内誤差平方和)  
 ### 4.2 ノイズ除去アルゴリズム
 - NR(Noise Reduction)  
 　・ローパスフィルター  
