@@ -69,7 +69,8 @@ Band Width: 20
 　・MA  
 　・WMA  
 - SE(Signal Extraction)  
-　・Thresholding  
+　・Thresholding
+　・階差フィルター  
 ### 4.3 サブキャリア選択
 参考1：https://zenn.dev/shungo_a/articles/ffbdb3614867ca  
 参考2：https://blog.since2020.jp/data_analysis/time_series_kmeans/  
