@@ -87,15 +87,15 @@ Band Width: 20
 　・De-Correlation Filter  
 　・Frequency/Temporal Smoothing  
 　・Random Phase Perturbation  
-　・Butterworth LPF
+　・Butterworth LPF  
 　・CFO  
 - ST(Signal Transform)  
 　・DWT 4  
 　・STFT 3  
 　・FFT  
 　・IFFT 2  
-　・DWT
-　・DHT
+　・DWT  
+　・DHT  
 　・Linear Transform  
 - SE(Signal Extraction)  
 　・Interpolation 8  
@@ -122,7 +122,7 @@ Band Width: 20
 　・Merging Adjacent Samples  
 　・Antenna Selection 3  
 　・Outlier Filter  
-　・Eigen Values
+　・Eigen Values  
 　・Normalization  
 ### 4.3 サブキャリア選択
 参考1：https://zenn.dev/shungo_a/articles/ffbdb3614867ca  
