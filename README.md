@@ -129,6 +129,3 @@ Band Width: 20
 ## 7. 参考文献
 **[[1]](https://dl.acm.org/doi/10.1145/3349623.3355477)** GRINGOLI, Francesco, et al. Free your CSI: A channel state information extraction platform for modern Wi-Fi chipsets. In: Proceedings of the 13th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization. 2019. p. 21-28.  
 **[[2]](https://dl.acm.org/doi/abs/10.1145/3310194)** MA, Yongsen; ZHOU, Gang; WANG, Shuangquan. WiFi sensing with channel state information: A survey. ACM Computing Surveys (CSUR), 2019, 52.3: 1-36.  
-**[[3]](https://dl.acm.org/doi/abs/10.1145/2999572.2999582)** ZHANG, Ouyang; SRINIVASAN, Kannan. Mudra: User-friendly fine-grained gesture recognition using WiFi signals. In: Proceedings of the 12th International on Conference on emerging Networking EXperiments and Technologies. 2016. p. 83-96.  
-# PassageDetection
-[ 異常検知 ] Nexmonファームウェアを用いたCSIセンシングに関するプロジェクト
