@@ -67,7 +67,7 @@ Band Width: 20
 - NR(Noise Reduction)  
 　・Signal Nulling 2  
 　・Phase Offset 2  
-　　・PDD
+　　・PDD  
 　　・STO  
 　・Hampel Filter 6  
 　・Linear Fitting 2  
