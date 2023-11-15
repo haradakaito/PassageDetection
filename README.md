@@ -68,7 +68,7 @@ Band Width: 20
 　・Hampel Filter[[4]](https://github.com/haradakaito/PassageDetection#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)  
 　・Wavelet Filter  
 　・LOF  
-　・MA
+　・MA  
 　・WMA  
 - ST(Signal Transform)  
 　・DWT  
