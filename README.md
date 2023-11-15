@@ -65,26 +65,65 @@ Band Width: 20
 ``` 
 ### 4.2 信号処理アルゴリズム
 - NR(Noise Reduction)  
-　・ローパスフィルター  
-　　・バターワース型  
-　・CFO(Carrier Frequency Offset)  
-　・ウェーブレットフィルター  
-　・Hampelフィルター  
-　・移動平均フィルター  
-
+　・Signal Nulling 2  
+　・Phase Offset 2  
+　　・PDD  
+  　・STO  
+　・Hampel Filter 6  
+　・Linear Fitting 2  
+　・Least Median Squares  
+　・WMA 2  
+　・Density-Based Spatial Clustering  
+　・Wavelet Filter 3  
+　・LOF 2  
+　・Median Filter  
+　・Phase Difference 2  
+　　・Interference Nulling  
+　・Long Delay Removal  
+　・LPF  
+　・PCA  
+　・MA 2  
+　・Temporal Bias  
+　・De-Correlation Filter  
+　・Frequency/Temporal Smoothing  
+　・Random Phase Perturbation  
+　・Butterworth LPF
+　・CFO  
 - ST(Signal Transform)  
-　・DWT(Discrete Wavelet Transform)  
-　・高速フーリエ変換(FFT)  
-
+　・DWT 4  
+　・STFT 3  
+　・FFT  
+　・IFFT 2  
+　・DWT
+　・DHT
+　・Linear Transform  
 - SE(Signal Extraction)  
-　・閾値  
-　・主成分分析(PCA)  
-　・特徴量抽出  
-　・ローパスフィルター  
-　　・バターワース型  
-　・BPF(Band Pass Filter)  
-　　・バターワース型  
-
+　・Interpolation 8  
+　・kernel PCA  
+　・Correlation Matrix  
+　・PCA 8  
+　・Feature Extraction 3  
+　・Subcarrier Selection 4  
+　　・Periodicity&SVD 1  
+　・Thresholding 10  
+　・BPF 2  
+　・LPF 3  
+　・Threshold-Based Sliding Window  
+　・Trend Filter  
+　・Euclidean Distance 2  
+　・Signal Isolation by Skewness  
+　・Duration-Based Filter  
+　・Signal Compresson by CSI Amplitude Variance  
+　・Butterworth BPF 2  
+　・Multiple TX-RX Pairs  
+　・Mahalanobis Distance  
+　・EMD  
+　・k-means  
+　・Merging Adjacent Samples  
+　・Antenna Selection 3  
+　・Outlier Filter  
+　・Eigen Values
+　・Normalization  
 ### 4.3 サブキャリア選択
 参考1：https://zenn.dev/shungo_a/articles/ffbdb3614867ca  
 参考2：https://blog.since2020.jp/data_analysis/time_series_kmeans/  
