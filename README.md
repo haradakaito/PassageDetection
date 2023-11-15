@@ -63,7 +63,7 @@ Pcap File Name: App
 Band Width: 20
 > 0-100
 ``` 
-### 4.2 ノイズ除去アルゴリズム
+### 4.2 信号処理アルゴリズム
 - NR(Noise Reduction)  
 　・ローパスフィルター  
 　　・バターワース型  
