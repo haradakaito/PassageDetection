@@ -65,21 +65,22 @@ Band Width: 20
 ``` 
 ### 4.2 信号処理アルゴリズム
 - NR(Noise Reduction)  
-　・Hampel Filter[[4]](https://github.com/haradakaito/PassageDetection#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)  
+　✓Hampel Filter[[4]](https://github.com/haradakaito/PassageDetection#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)
+　　・パラメータ：3 / 5 / 7 / 9  
 　・MA  
 　・WMA  
 - SE(Signal Extraction)  
-　・Thresholding
-　・階差フィルター  
+  ✓Thresholding
+  ✓階差フィルター  
 ### 4.3 サブキャリア選択
 参考1：https://zenn.dev/shungo_a/articles/ffbdb3614867ca  
 参考2：https://blog.since2020.jp/data_analysis/time_series_kmeans/  
-前処理として, 「標準化」か「正規化」を行う必要がある.  
-- 時系列クラスタリング  
+前処理として, 「✓標準化」か「正規化」を行う必要がある.  
+- 時系列クラスタリング候補  
 　・k-means  
   ・ユークリッド距離  
   ・DTW  
-  ・k-shape  
+  ✓k-shape  
   ・PCA  
   ・t-SNE  
 - SSE(クラスター内誤差平方和)による評価 
