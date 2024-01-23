@@ -1,4 +1,4 @@
-# NexmonによるCSIベースの人物通過検出システムに関する研究
+![log_curve_samplingrate](https://github.com/haradakaito/PassageDetection/assets/75819611/d733d09b-6bc1-47d5-9a3e-da5358d61999)# NexmonによるCSIベースの人物通過検出システムに関する研究
 ## 0. はじめに 
 ![図_CSIイメージ](https://github.com/haradakaito/PassageDetection/assets/75819611/c9ebc7a3-a9cb-43da-a217-99322f136b2d)
 
@@ -15,6 +15,11 @@
 
 ### 2.3. 学習・評価フェーズ
 ![箱ひげ図_学習モデル比較](https://github.com/haradakaito/PassageDetection/assets/75819611/4e14fc27-e78a-44d8-822c-3dccc273f3ae)
+
+![log_curve_samplingrate](https://github.com/haradakaito/PassageDetection/assets/75819611/a7339f76-bfe7-43be-ae11-6e685a37526d)
+
+![log_curve_k-Fold](https://github.com/haradakaito/PassageDetection/assets/75819611/f6ae899e-261b-4372-b940-5cda04a9d362)
+
 
 ## 3. 人物通過検出手法の応用
 
