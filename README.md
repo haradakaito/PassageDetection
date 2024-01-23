@@ -13,8 +13,9 @@
 ### 2.3. 学習・評価フェーズ
 ![箱ひげ図_学習モデル比較](https://github.com/haradakaito/PassageDetection/assets/75819611/4e14fc27-e78a-44d8-822c-3dccc273f3ae)
 
-
-
 ## 3. 人物通過検出手法の応用
+
+![混同行列_キャプション有り](https://github.com/haradakaito/PassageDetection/assets/75819611/f7f3b8c5-73fa-4091-b0a9-e0b21a65096f)
+
 ## 4. おわりに
 ## 参考
