@@ -1,4 +1,4 @@
-![log_curve_samplingrate](https://github.com/haradakaito/PassageDetection/assets/75819611/d733d09b-6bc1-47d5-9a3e-da5358d61999)# NexmonによるCSIベースの人物通過検出システムに関する研究
+# NexmonによるCSIベースの人物通過検出システムに関する研究
 ## 0. はじめに 
 ![図_CSIイメージ](https://github.com/haradakaito/PassageDetection/assets/75819611/c9ebc7a3-a9cb-43da-a217-99322f136b2d)
 
