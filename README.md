@@ -1,5 +1,8 @@
 # NexmonによるCSIベースの人物通過検出システムに関する研究
 ## 0. はじめに 
+![図_CSIイメージ](https://github.com/haradakaito/PassageDetection/assets/75819611/c9ebc7a3-a9cb-43da-a217-99322f136b2d)
+
+
 ## 1. 人物通過検出手法
 ![図_学習アーキテクチャ](https://github.com/haradakaito/PassageDetection/assets/75819611/d8fb586b-fbc3-4255-ada5-68a214ee7de5)
 
@@ -15,7 +18,6 @@
 
 ## 3. 人物通過検出手法の応用
 
-![混同行列_キャプション有り](https://github.com/haradakaito/PassageDetection/assets/75819611/f7f3b8c5-73fa-4091-b0a9-e0b21a65096f)
 
 ## 4. おわりに
 ## 参考
