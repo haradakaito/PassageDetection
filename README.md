@@ -36,7 +36,7 @@ CSI収集用デバイスとしては，安価で入手容易なRaspberryPi4Bを�
 人物通過検出システムを応用し，人物通過速度分類を行う．これは，通過速度と検出区間幅に、有意な相関が存在するという仮説に基づいている．モデルの予測値から検出区間幅を得る．基礎評価で使用したテストデータ内では，合計23回(Slow:7回，Normal:7回，Fast:9回)の通過区間が存在している．得られた検出区間幅データに対して，k-means法でクラスタリングを行った際の，分類結果を示す．全通過区間で，適切な通過速度分類が可能なことを確認した．  
 
 ## 4. 考察
-![画像2](https://github.com/haradakaito/PassageDetection/assets/75819611/d1a99b3a-afe5-48dd-ac11-d0cbeec54ad8)
+![画像3](https://github.com/haradakaito/PassageDetection/assets/75819611/f29ebb3f-567d-4344-9d61-c92771811d9f)
 
 
 ## 5. おわりに
