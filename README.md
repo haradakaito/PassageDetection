@@ -45,10 +45,10 @@ CSI収集用デバイスとしては，**安価で入手容易なRaspberryPi4B�
 NexmonによるCSIベースの人物通過検出システムの実現手法を示し，その性能の検証・評価によって，NexmonによるCSIベースの人物通過検出システムにおける可能性を示した．第3章では，第2章の提案手法を用いて，高精度に人物通過検出を行えることを示した．また，第4章では，検出システムを応用し，通過速度分類が可能なことを示した．
 **今後の展望としては，さまざまな内外的要因(通過人数や通信条件，環境差など)に対し，より広範な調査を行い，他ドメインへの実用的なシステムとしての運用を検討**する．  
 
-## 業績
-[1] "NexmonによるCSIベースの人物通過検出システムに関する研究", 第86回IPSJ全国大会 (2024.3.発表済み).
-
 ## 参考
 [1]Shahverdi, H., Nabati, M., Moshiri, F.R., et al.: Enhancing CSI-Based Human Activity Recognition by Edge Detection Techniques, Information, Vol.14.7, No.404, (2023).  
 [2]Xia, Z. and Chong, S.: WiFi-based indoor passive fall detection for medical Internet of Things. Computers and Electrical Engineering, Vol.109, No.108763, (2023).  
 [3]Gringoli, F., Schulz, M., Link, J., et al.: Free your CSI: A channel state information extraction platform for modern Wi-Fi chipsets, Proceedings of the 13th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization, pp.21-28 (2019).  
+
+## 業績
+[1] "NexmonによるCSIベースの人物通過検出システムに関する研究", 第86回IPSJ全国大会 (2024.3.発表済み).
