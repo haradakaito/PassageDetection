@@ -46,7 +46,7 @@ NexmonによるCSIベースの人物通過検出システムの実現手法を�
 今後の展望としては，さまざまな内外的要因(通過人数や通信条件，環境差など)に対し，より広範な調査を行い，他ドメインへの実用的なシステムとしての運用を検討する．  
 
 ## 業績
-[1] "NexmonによるCSIベースの人物通過検出システムに関する研究", 第86回IPSJ全国大会 (2024.3.発表予定).
+[1] "NexmonによるCSIベースの人物通過検出システムに関する研究", 第86回IPSJ全国大会 (2024.3.発表済み).
 
 ## 参考
 [1]Shahverdi, H., Nabati, M., Moshiri, F.R., et al.: Enhancing CSI-Based Human Activity Recognition by Edge Detection Techniques, Information, Vol.14.7, No.404, (2023).  
